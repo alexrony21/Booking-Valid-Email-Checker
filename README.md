@@ -1,4 +1,4 @@
-# Booking.com Valid Email Checker
+# Booking Valid Email Checker
 
 ![Image](https://raw.githubusercontent.com/alexrony21/Booking.com-Valid-Email-Checker/main/Booking.com_Valid_Email_Checker.png)
 
